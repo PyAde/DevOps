@@ -33,3 +33,23 @@ Deploy/Deployment
 adalah mekanisme di mana aplikasi, modul, pembaruan, atau patch dikirimkan
 atau patch dikirimkan (deliver) dari Developer ke pengguna
 
+Hosting
+Aktivitas yang menyediakan ruang penyimpanan dan server untuk memublikasikan
+website atau aplikasi
+
+Lingkungan (Enviroment)
+Konfigurasi tertentu dari perangkat keras dan atau perangkat lunak yang
+digunakan untuk menjalankan suatu program atau aplikasi
+
+Lingkungan Pengembangan (Development Enviroment)
+Konfigurasi perangkat keras dan atau perangkat lunak agar Developer bisa
+mengembangkan, menguji, dan memacahkan masalah aplikasi atau program
+
+Lingkungan Pengujian (Testing Enviroment)
+Konfigurasi perangkat keras dan atau perangkat lunak agar Developer/IT Operations/QA
+(Quality Assurance) bisa melakukan berbagai pengujian terhadap aplikasi 
+
+Lingkungan Produksi (Production Enviroment)
+Konfigurasi perangkat keras dan atau perangakat lunak di mana versi terbaru dari
+aplikasi disajikan ke pengguna yang dtuju
+
