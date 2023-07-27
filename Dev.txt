@@ -1,0 +1,35 @@
+API 
+Apllication Programming Interface adalah seperangkat fungsi dan prosedur
+(biasanya berupa perantara perangkat lunak) yang memungkinkan aplikasi 
+dapat mengakses fitur atau data dari sistem operasi, aplikasi, atau service
+(layanan) lainnya
+
+Artifact 
+adalah produk atau objek yang dihasilkan selama proses pengembangan perangkat
+lunak. Umunya bisa berupa source code, proyek, dependencies, binaries, compressed
+file, container image, dll
+
+Bug
+adalah kesalahan pengodean dalam program komputer
+
+Compile
+Tindakan mengonversi kode yang ditulis dalam bahasa pemrograman (yang dapat dimengerti oleh manusia)
+menjadi sebuah objek kode atau program yang bisa dieksekusi oleh komputer
+
+Container 
+Unit standar perangkat lunak ynag mengemas kode dan dependencies sehingga 
+aplikasi dapa berjalan dengan cepat dan andal dari satu lingkungan komputasi
+ke lingkungan komputasi lainnya
+
+Container image
+File statis berisi kode yang dapat dieksekusi yang dapat digunakan untuk
+membuat sebuah container pada sistem komputasi
+
+Dependencies 
+mengacu pada fungsi, library, atau potongan kode penting agar bagian kode yang
+lain dapat berfungsi
+
+Deploy/Deployment
+adalah mekanisme di mana aplikasi, modul, pembaruan, atau patch dikirimkan
+atau patch dikirimkan (deliver) dari Developer ke pengguna
+
