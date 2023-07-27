@@ -65,3 +65,20 @@ Package Manager
 Kumpulan tools perangkat lunak yang mengotomatiskan proses instalasi, perangkat
 versi, Konfigurasi, dan penghapusan program komputer
 
+Service 
+adalah suatu layanan atau komponen yang dibangun untuk memberikan suatu kemampuan
+bisnis tertentu. Misalnya, authentication service melayani validasi username
+dan password pengguna yang akan login suatu website
+
+Software Delivery 
+Seluruh proses dan aktivitas yang membuat suatu perangkat lunak tersedia dan 
+bisa digunakan oleh pengguna
+
+Software Packages
+Sekumpulan file atau program yang dikemas bersama yang menyediakan fungsionalitas
+tertentu
+
+Unit Test
+Metode pengujian perangkat lunak di mana unit individu dari kode(kumpulan dari
+satu atau lebih modul program komputer) diuji untuk menentukan apakah sesuai
+dengan yang diharapkan atau tidak 
