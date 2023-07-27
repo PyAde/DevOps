@@ -53,3 +53,15 @@ Lingkungan Produksi (Production Enviroment)
 Konfigurasi perangkat keras dan atau perangakat lunak di mana versi terbaru dari
 aplikasi disajikan ke pengguna yang dtuju
 
+Quality Assurance
+Prosedur untuk memastikan kualitas dari produk perangkat lunak yang akan 
+disajikan (deliver) ke pengguna dengan melakukan pengujain dan pemantauan
+
+Resource
+Dalam komputasi, Resource adalah komponen fisik atau virtual apa pun yang ada
+dalam sistem komputer
+
+Package Manager
+Kumpulan tools perangkat lunak yang mengotomatiskan proses instalasi, perangkat
+versi, Konfigurasi, dan penghapusan program komputer
+
