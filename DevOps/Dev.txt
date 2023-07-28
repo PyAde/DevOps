@@ -1,0 +1,84 @@
+API 
+Apllication Programming Interface adalah seperangkat fungsi dan prosedur
+(biasanya berupa perantara perangkat lunak) yang memungkinkan aplikasi 
+dapat mengakses fitur atau data dari sistem operasi, aplikasi, atau service
+(layanan) lainnya
+
+Artifact 
+adalah produk atau objek yang dihasilkan selama proses pengembangan perangkat
+lunak. Umunya bisa berupa source code, proyek, dependencies, binaries, compressed
+file, container image, dll
+
+Bug
+adalah kesalahan pengodean dalam program komputer
+
+Compile
+Tindakan mengonversi kode yang ditulis dalam bahasa pemrograman (yang dapat dimengerti oleh manusia)
+menjadi sebuah objek kode atau program yang bisa dieksekusi oleh komputer
+
+Container 
+Unit standar perangkat lunak ynag mengemas kode dan dependencies sehingga 
+aplikasi dapa berjalan dengan cepat dan andal dari satu lingkungan komputasi
+ke lingkungan komputasi lainnya
+
+Container image
+File statis berisi kode yang dapat dieksekusi yang dapat digunakan untuk
+membuat sebuah container pada sistem komputasi
+
+Dependencies 
+mengacu pada fungsi, library, atau potongan kode penting agar bagian kode yang
+lain dapat berfungsi
+
+Deploy/Deployment
+adalah mekanisme di mana aplikasi, modul, pembaruan, atau patch dikirimkan
+atau patch dikirimkan (deliver) dari Developer ke pengguna
+
+Hosting
+Aktivitas yang menyediakan ruang penyimpanan dan server untuk memublikasikan
+website atau aplikasi
+
+Lingkungan (Enviroment)
+Konfigurasi tertentu dari perangkat keras dan atau perangkat lunak yang
+digunakan untuk menjalankan suatu program atau aplikasi
+
+Lingkungan Pengembangan (Development Enviroment)
+Konfigurasi perangkat keras dan atau perangkat lunak agar Developer bisa
+mengembangkan, menguji, dan memacahkan masalah aplikasi atau program
+
+Lingkungan Pengujian (Testing Enviroment)
+Konfigurasi perangkat keras dan atau perangkat lunak agar Developer/IT Operations/QA
+(Quality Assurance) bisa melakukan berbagai pengujian terhadap aplikasi 
+
+Lingkungan Produksi (Production Enviroment)
+Konfigurasi perangkat keras dan atau perangakat lunak di mana versi terbaru dari
+aplikasi disajikan ke pengguna yang dtuju
+
+Quality Assurance
+Prosedur untuk memastikan kualitas dari produk perangkat lunak yang akan 
+disajikan (deliver) ke pengguna dengan melakukan pengujain dan pemantauan
+
+Resource
+Dalam komputasi, Resource adalah komponen fisik atau virtual apa pun yang ada
+dalam sistem komputer
+
+Package Manager
+Kumpulan tools perangkat lunak yang mengotomatiskan proses instalasi, perangkat
+versi, Konfigurasi, dan penghapusan program komputer
+
+Service 
+adalah suatu layanan atau komponen yang dibangun untuk memberikan suatu kemampuan
+bisnis tertentu. Misalnya, authentication service melayani validasi username
+dan password pengguna yang akan login suatu website
+
+Software Delivery 
+Seluruh proses dan aktivitas yang membuat suatu perangkat lunak tersedia dan 
+bisa digunakan oleh pengguna
+
+Software Packages
+Sekumpulan file atau program yang dikemas bersama yang menyediakan fungsionalitas
+tertentu
+
+Unit Test
+Metode pengujian perangkat lunak di mana unit individu dari kode(kumpulan dari
+satu atau lebih modul program komputer) diuji untuk menentukan apakah sesuai
+dengan yang diharapkan atau tidak 
